@@ -1,5 +1,7 @@
 # Teams
 
+![image](Files/tasks.png)
+
 ## Components:
 - Abderrahmane Ouroui
 - Miloud Echarki
