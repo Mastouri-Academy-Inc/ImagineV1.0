@@ -20,4 +20,4 @@ if __name__ == "__main__" :
         results = client.inserts_stream("registered_user_stream", registered_user)
         print(results)
         #producer.send("registered_user", data)
-        time.sleep(5)
+        time.sleep(3)
