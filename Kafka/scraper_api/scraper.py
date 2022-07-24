@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup
 import requests
 import time
@@ -9,11 +10,16 @@ from random import randint
 class Scraper() :
 
     def weather_hourly(self, city) :
+
+        options = Options()
+        options.headless = True
         
         weather_info= []
 
-        driver = webdriver.Firefox(executable_path= "/home/adnaneeee/Bureau/Apache kafka/kafka-app-demo/scraper_api/geckodriver")
+        driver = webdriver.Firefox(options = options, executable_path= "/home/adnaneeee/Bureau/Apache kafka/kafka-app-demo/scraper_api/geckodriver")
         driver.get("https://en.sat24.com/en/forecast/h/3313735/rabat")
+
+        print(f"Getting {city}'s weather data...")
 
         time.sleep(3)
 
@@ -57,5 +63,9 @@ class Scraper() :
             except :
 
                 print("Error fetching the data")
+        
+        driver.quit()
+
+        print("driver terminated")
 
         return weather_info
