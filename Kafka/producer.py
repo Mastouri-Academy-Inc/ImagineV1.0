@@ -1,7 +1,7 @@
-from data import get_registered_user
+from fake_data import get_registered_user
 from kafka import KafkaProducer
 import json
-from data import get_registered_user
+from fake_data import get_registered_user
 import time
 from ksql import KSQLAPI
 
