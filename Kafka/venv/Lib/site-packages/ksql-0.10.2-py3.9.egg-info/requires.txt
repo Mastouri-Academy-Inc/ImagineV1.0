@@ -1,0 +1,12 @@
+requests
+six
+urllib3
+hyper
+
+[dev]
+nose
+codecov
+vcrpy
+coverage
+confluent-kafka[avro]
+responses

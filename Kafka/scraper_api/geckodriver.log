@@ -1,0 +1,537 @@
+1658612901872	geckodriver	INFO	Listening on 127.0.0.1:57707
+1658612902390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVrtCWS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658612903955	Marionette	INFO	Marionette enabled
+1658612903960	Marionette	INFO	Listening on port 43843
+WebDriver BiDi listening on ws://localhost:50257
+Read port: 43843
+1658612904199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVrtCWS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50257/devtools/browser/665a5aaf-a1b9-40ca-9b4e-7b76f7aaef0d
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658612915810	Marionette	INFO	Stopped listening on port 43843
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658612957330	geckodriver	INFO	Listening on 127.0.0.1:36297
+1658612957338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehYKiMe"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658612958606	Marionette	INFO	Marionette enabled
+1658612958611	Marionette	INFO	Listening on port 37139
+WebDriver BiDi listening on ws://localhost:59337
+Read port: 37139
+1658612958761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehYKiMe/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59337/devtools/browser/de4f546c-b84c-432c-a352-9a761e38a603
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 1713 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 1612 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.files.bbci.co.uk/orbit/a2a0a67d0781de428994fbfcaf79fa8c/js/require.min.js, line 101: Error: Load timeout for modules: bump-3
+http://requirejs.org/docs/errors.html#timeout
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658612976346	Marionette	INFO	Stopped listening on port 37139
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658613153762	geckodriver	INFO	Listening on 127.0.0.1:45419
+1658613153782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9eIfPm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658613154999	Marionette	INFO	Marionette enabled
+1658613155004	Marionette	INFO	Listening on port 44459
+WebDriver BiDi listening on ws://localhost:34699
+Read port: 44459
+1658613155148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9eIfPm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34699/devtools/browser/a92b9423-0e2d-4da0-a7e4-9ac79b072d1b
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 4624 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bbc.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 6781 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658613220689	geckodriver	INFO	Listening on 127.0.0.1:42107
+1658613220728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuLrByN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658613221970	Marionette	INFO	Marionette enabled
+1658613221975	Marionette	INFO	Listening on port 40827
+WebDriver BiDi listening on ws://localhost:57657
+Read port: 40827
+1658613222126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuLrByN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57657/devtools/browser/7ce660c9-e8ff-4a3c-bec4-15cf57642a83
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bbc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bbc.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 6790 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 3107 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 6931 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 5576 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658613255445	Marionette	INFO	Stopped listening on port 40827
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658613257672	Marionette	INFO	Stopped listening on port 44459
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658613264061	geckodriver	INFO	Listening on 127.0.0.1:60281
+1658613264087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8OpNak"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658613265411	Marionette	INFO	Marionette enabled
+1658613265416	Marionette	INFO	Listening on port 46735
+WebDriver BiDi listening on ws://localhost:36653
+Read port: 46735
+1658613265585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8OpNak/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36653/devtools/browser/d6118209-61cb-49b6-811d-50e122059e48
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bbc.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bbc.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 3063 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 1017 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658613300990	Marionette	INFO	Stopped listening on port 46735
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1658618558593	geckodriver	INFO	Listening on 127.0.0.1:58553
+1658618558609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0JaomO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658618559859	Marionette	INFO	Marionette enabled
+1658618559864	Marionette	INFO	Listening on port 39051
+WebDriver BiDi listening on ws://localhost:59869
+Read port: 39051
+1658618560008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0JaomO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59869/devtools/browser/ec888af0-41df-4252-a520-115727390287
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 145 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658618599273	Marionette	INFO	Stopped listening on port 39051
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658618618107	geckodriver	INFO	Listening on 127.0.0.1:52039
+1658618618129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile43D0OP"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658618619282	Marionette	INFO	Marionette enabled
+1658618619287	Marionette	INFO	Listening on port 36455
+WebDriver BiDi listening on ws://localhost:50171
+Read port: 36455
+1658618619435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile43D0OP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50171/devtools/browser/d3013dfb-8b44-4277-b047-4ed291af2cd6
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 2531 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658618639881	Marionette	INFO	Stopped listening on port 36455
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658619546363	geckodriver	INFO	Listening on 127.0.0.1:32903
+1658619546381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6fGpM1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658619547519	Marionette	INFO	Marionette enabled
+1658619547524	Marionette	INFO	Listening on port 33229
+WebDriver BiDi listening on ws://localhost:54933
+Read port: 33229
+1658619547669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6fGpM1/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54933/devtools/browser/033c64e9-8aaa-4263-a02c-e5b278b6c2d9
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 7796 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658619596046	Marionette	INFO	Stopped listening on port 33229
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658619652117	geckodriver	INFO	Listening on 127.0.0.1:49247
+1658619652132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevkSOnb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658619653322	Marionette	INFO	Marionette enabled
+1658619653327	Marionette	INFO	Listening on port 38495
+Read port: 38495
+WebDriver BiDi listening on ws://localhost:33755
+1658619653471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevkSOnb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33755/devtools/browser/995fee52-9894-469f-8377-f05cfc2218bc
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 3108 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 891 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658619723427	Marionette	INFO	Stopped listening on port 38495
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658619754113	geckodriver	INFO	Listening on 127.0.0.1:56605
+1658619754624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51643" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesoYQrC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658619755851	Marionette	INFO	Marionette enabled
+1658619755856	Marionette	INFO	Listening on port 37111
+WebDriver BiDi listening on ws://localhost:51643
+Read port: 37111
+1658619756019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesoYQrC/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51643/devtools/browser/42e450db-4cfb-44ba-bdf3-8d260ad06d14
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 7280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 1190 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658619821435	Marionette	INFO	Stopped listening on port 37111
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1658621139613	geckodriver	INFO	Listening on 127.0.0.1:58625
+1658621139627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiA1yvm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658621140800	Marionette	INFO	Marionette enabled
+1658621140805	Marionette	INFO	Listening on port 45505
+WebDriver BiDi listening on ws://localhost:45087
+Read port: 45505
+1658621140969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+1658621190545	geckodriver	INFO	Listening on 127.0.0.1:42623
+1658621190563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerz92qD"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658621191755	Marionette	INFO	Marionette enabled
+1658621191761	Marionette	INFO	Listening on port 38449
+Read port: 38449
+WebDriver BiDi listening on ws://localhost:56757
+1658621191903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerz92qD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56757/devtools/browser/193b20ba-d17d-43b1-917b-1e2c06832f22
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+1658621196388	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4JAIKwid8f35vx5JMDPHWQJTURDOey7UpTPwaznZUPM.js line 2 > eval line 1904 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658621625843	Marionette	INFO	Stopped listening on port 38449
+1658624352792	geckodriver	INFO	Listening on 127.0.0.1:60181
+1658624352807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYRF5xT"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658624354008	Marionette	INFO	Marionette enabled
+1658624354013	Marionette	INFO	Listening on port 45553
+WebDriver BiDi listening on ws://localhost:36793
+Read port: 45553
+1658624354286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYRF5xT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36793/devtools/browser/44db177d-b50d-44bf-9a5d-0ded9f9c29d8
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 1106 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 6023 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 1568 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 3244 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658624405175	Marionette	INFO	Stopped listening on port 45553
+1658624895712	geckodriver	INFO	Listening on 127.0.0.1:59667
+1658624895717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38011" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTEikt0"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658624896902	Marionette	INFO	Marionette enabled
+1658624896908	Marionette	INFO	Listening on port 36039
+WebDriver BiDi listening on ws://localhost:38011
+Read port: 36039
+1658624897068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTEikt0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38011/devtools/browser/1e9c57df-ec47-4f52-b947-e29d6877c385
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 7181 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 6372 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658624953278	Marionette	INFO	Stopped listening on port 36039
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658625024142	geckodriver	INFO	Listening on 127.0.0.1:34103
+1658625024147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44279" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTkk90V"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658625025471	Marionette	INFO	Marionette enabled
+1658625025477	Marionette	INFO	Listening on port 46799
+WebDriver BiDi listening on ws://localhost:44279
+Read port: 46799
+1658625025627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTkk90V/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44279/devtools/browser/05d4c35e-2235-4a8b-85d7-4464801c59ce
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 4528 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 2853 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658625201542	geckodriver	INFO	Listening on 127.0.0.1:36621
+1658625201547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1JZZUO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658625203119	Marionette	INFO	Marionette enabled
+1658625203127	Marionette	INFO	Listening on port 41985
+WebDriver BiDi listening on ws://localhost:53177
+Read port: 41985
+1658625203311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1JZZUO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53177/devtools/browser/042d7f8c-7184-446e-a88a-f593de20a4b8
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 4955 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 1281 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658625221845	Marionette	INFO	Stopped listening on port 46799
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658625247382	Marionette	INFO	Stopped listening on port 41985
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658626882050	geckodriver	INFO	Listening on 127.0.0.1:45821
+1658626882055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7rnfRN"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658626883670	Marionette	INFO	Marionette enabled
+1658626883675	Marionette	INFO	Listening on port 44781
+WebDriver BiDi listening on ws://localhost:53857
+Read port: 44781
+1658626883886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7rnfRN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53857/devtools/browser/61443dae-0930-480b-b6f8-f9c4dc6ab906
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 6145 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 5533 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658626910093	Marionette	INFO	Stopped listening on port 44781
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658655732401	geckodriver	INFO	Listening on 127.0.0.1:54283
+1658655732916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletKB7Lp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658655734191	Marionette	INFO	Marionette enabled
+1658655734197	Marionette	INFO	Listening on port 41639
+WebDriver BiDi listening on ws://localhost:37335
+Read port: 41639
+1658655734369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletKB7Lp/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37335/devtools/browser/7fb68b8d-e7ef-4823-8222-14b82a997cfd
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 6711 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 5073 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658655817958	Marionette	INFO	Stopped listening on port 41639
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658656501427	geckodriver	INFO	Listening on 127.0.0.1:52345
+1658656501935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiled6TxYL"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658656503278	Marionette	INFO	Marionette enabled
+1658656503284	Marionette	INFO	Listening on port 40401
+WebDriver BiDi listening on ws://localhost:54745
+Read port: 40401
+1658656503461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled6TxYL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54745/devtools/browser/cdd05596-536e-4dce-973e-a38b4954605a
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 326 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 488 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658656568491	Marionette	INFO	Stopped listening on port 40401
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658656572722	geckodriver	INFO	Listening on 127.0.0.1:38381
+1658656573241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRJzxGK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658656574721	Marionette	INFO	Marionette enabled
+1658656574726	Marionette	INFO	Listening on port 39999
+WebDriver BiDi listening on ws://localhost:49163
+Read port: 39999
+1658656574908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRJzxGK/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49163/devtools/browser/e0bffd78-dd2f-4e4f-a487-ec4f179b8b8c
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 2722 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658656903585	Marionette	INFO	Stopped listening on port 39999
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658656988133	geckodriver	INFO	Listening on 127.0.0.1:53919
+1658656988644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBvsRYf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1658656989965	Marionette	INFO	Marionette enabled
+1658656989971	Marionette	INFO	Listening on port 39817
+WebDriver BiDi listening on ws://localhost:46869
+Read port: 39817
+1658656990124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBvsRYf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46869/devtools/browser/7fea1f97-d622-4da7-8921-bf88a6836296
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1658656995531	Marionette	INFO	Stopped listening on port 39817
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658656998548	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1658676044328	geckodriver	INFO	Listening on 127.0.0.1:43451
+1658676044847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "41097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefpYTdN"
+*** You are running in headless mode.
+1658676045435	Marionette	INFO	Marionette enabled
+1658676045441	Marionette	INFO	Listening on port 43119
+Read port: 43119
+WebDriver BiDi listening on ws://localhost:41097
+1658676045653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefpYTdN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41097/devtools/browser/319298b0-fbd6-4881-97eb-f774f9225566
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 3946 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://en.sat24.com/js/sat24.js, line 62: ReferenceError: region is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/zRsni2KaYpGlbzf8qPigYhDu91QLoFuK7JLW1IaqgGI.js line 2 > eval line 6096 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658676071528	Marionette	INFO	Stopped listening on port 43119
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
